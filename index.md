@@ -9,3 +9,9 @@
 ## Ejemplo en Python
 print("Hola GitHub)
 ```
+
+## Empezando una lista de ejemplo
+- [x] Item 1 está completo
+- [x] Item 2 está completo
+- [ ] Item 3 está incompleto
+- [x] Item 4 está completo
